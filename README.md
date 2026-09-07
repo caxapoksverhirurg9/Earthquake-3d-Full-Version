@@ -227,3 +227,6 @@ This repository serves as the official landing page for Earthquake 3D. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Earthquake 3D today!**
+
+---
+**Last updated:** 2026-09-07 23:15:40 UTC
