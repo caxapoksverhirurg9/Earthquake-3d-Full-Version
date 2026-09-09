@@ -229,4 +229,4 @@ This repository serves as the official landing page for Earthquake 3D. The softw
 **Get the most recent version of Earthquake 3D today!**
 
 ---
-**Last updated:** 2026-09-09 19:41:08 UTC
+**Last updated:** 2026-09-09 22:13:27 UTC
